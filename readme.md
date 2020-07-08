@@ -1,4 +1,5 @@
 MCDReforged
+需使用请下载文件列表中的  整合后的文件包  rar文件
 --------
 ![MCDR-banner](https://raw.githubusercontent.com/Fallen-Breath/MCDReforged/master/logo_long.png)
 
